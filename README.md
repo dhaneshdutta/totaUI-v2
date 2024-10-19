@@ -1,7 +1,7 @@
 
-# 🦜 TotaUI v2 - An Improved Ollama WebUI
+# 🦜 TotaUI
 
-Welcome to **TotaUI v2**, the next version of my React-based web interface for running local Large Language Models (LLMs) like Ollama. This updated version improves on the original TotaUI, making it easier and faster to chat with your local models.
+Welcome to **TotaUI**, the next version of my React-based web interface for running local Large Language Models (LLMs) through Ollama. This updated version improves on the original TotaUI, making it easier and faster to chat with your local models.
 
 ![TotaUI Preview](assets/preview.png)
 
